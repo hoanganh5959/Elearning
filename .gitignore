@@ -1,0 +1,23 @@
+# # Environment variables
+.env
+
+# # Vendor packages
+# # /vendor/
+
+# # IDE specific files
+# .idea/
+# .vscode/
+# *.sublime-workspace
+# *.sublime-project
+
+# # Cache files
+# *.cache
+# *.log
+
+# # Uploads
+# /public/assets/uploads/*
+# !/public/assets/uploads/.gitkeep
+
+# # OS specific files
+# .DS_Store
+# Thumbs.db 
