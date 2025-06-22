@@ -2,22 +2,22 @@
 .env
 
 # # Vendor packages
-# # /vendor/
+/vendor/
 
 # # IDE specific files
-# .idea/
-# .vscode/
-# *.sublime-workspace
-# *.sublime-project
+.idea/
+
+*.sublime-workspace
+*.sublime-project
 
 # # Cache files
-# *.cache
-# *.log
+*.cache
+*.log
 
 # # Uploads
-# /public/assets/uploads/*
-# !/public/assets/uploads/.gitkeep
+/public/assets/uploads/*
+!/public/assets/uploads/.gitkeep
 
 # # OS specific files
-# .DS_Store
-# Thumbs.db 
+.DS_Store
+Thumbs.db 
